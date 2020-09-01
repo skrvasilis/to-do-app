@@ -1,0 +1,11 @@
+deploying steps
+
+1. install github pages
+npm i gh-pages
+
+2. configure our package.json
+    a. 'homepage': git repo path
+    b. and 2 more scripts in package.json
+       1. 'predeploy': "npm run build" 
+       2. 'deploy' : "gh-page-d build"
+
