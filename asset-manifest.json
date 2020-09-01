@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/skrvasilis/to-do-app/static/css/main.5d67a9a3.chunk.css",
-    "main.js": "/skrvasilis/to-do-app/static/js/main.42879b49.chunk.js",
-    "main.js.map": "/skrvasilis/to-do-app/static/js/main.42879b49.chunk.js.map",
-    "runtime-main.js": "/skrvasilis/to-do-app/static/js/runtime-main.80530eaa.js",
-    "runtime-main.js.map": "/skrvasilis/to-do-app/static/js/runtime-main.80530eaa.js.map",
-    "static/js/2.ded14748.chunk.js": "/skrvasilis/to-do-app/static/js/2.ded14748.chunk.js",
-    "static/js/2.ded14748.chunk.js.map": "/skrvasilis/to-do-app/static/js/2.ded14748.chunk.js.map",
-    "index.html": "/skrvasilis/to-do-app/index.html",
-    "precache-manifest.db470ed0231b7d21b6a1eba5d2d130e6.js": "/skrvasilis/to-do-app/precache-manifest.db470ed0231b7d21b6a1eba5d2d130e6.js",
-    "service-worker.js": "/skrvasilis/to-do-app/service-worker.js",
-    "static/css/main.5d67a9a3.chunk.css.map": "/skrvasilis/to-do-app/static/css/main.5d67a9a3.chunk.css.map",
-    "static/js/2.ded14748.chunk.js.LICENSE.txt": "/skrvasilis/to-do-app/static/js/2.ded14748.chunk.js.LICENSE.txt",
-    "static/media/notfound.jpg": "/skrvasilis/to-do-app/static/media/notfound.2f317b09.jpg"
+    "main.css": "./static/css/main.5d67a9a3.chunk.css",
+    "main.js": "./static/js/main.42879b49.chunk.js",
+    "main.js.map": "./static/js/main.42879b49.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.84878c42.js",
+    "runtime-main.js.map": "./static/js/runtime-main.84878c42.js.map",
+    "static/js/2.ded14748.chunk.js": "./static/js/2.ded14748.chunk.js",
+    "static/js/2.ded14748.chunk.js.map": "./static/js/2.ded14748.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.318e92bb78078709c1eb562d815f4836.js": "./precache-manifest.318e92bb78078709c1eb562d815f4836.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.5d67a9a3.chunk.css.map": "./static/css/main.5d67a9a3.chunk.css.map",
+    "static/js/2.ded14748.chunk.js.LICENSE.txt": "./static/js/2.ded14748.chunk.js.LICENSE.txt",
+    "static/media/notfound.jpg": "./static/media/notfound.2f317b09.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.80530eaa.js",
+    "static/js/runtime-main.84878c42.js",
     "static/js/2.ded14748.chunk.js",
     "static/css/main.5d67a9a3.chunk.css",
     "static/js/main.42879b49.chunk.js"
