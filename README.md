@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # React Todo Application 
 ## Introduction
-The React Todo Application is a simple task management tool built using React classes. It allows users to create,  and delete tasks, helping them stay organized and track their progress. This documentation provides an overview of the project and explains how to set it up, use its features, and customize its styling using Sass.
+The React Todo Application is a simple task management tool built using React classes. It allows users to create,  and delete tasks, helping them stay organized and track their progress. This documentation provides an overview of the project and explains how to set it up, use its features, , customize its styling using Sass, and utilize local storage for task persistence.
 
 
 ### Installation
